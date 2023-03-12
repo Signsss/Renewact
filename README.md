@@ -1,2 +1,2 @@
 # Renewact
-A Lab website
+A Laboratory Website for Research in a University
